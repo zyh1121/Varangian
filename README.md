@@ -5,7 +5,7 @@ Christoph Görn, Red Hat Office of the CTO
 
 IBM Research has developed an Augmented Static Analyzer based on a [Deep Learning model called C-BERT](https://arxiv.org/pdf/2006.12641.pdf)
 that is able to analyze source code in C language. They are currently using it to identify vulnerabilities in source
-code, in this case, without the help of a traditional static analyzer. The C-BERT model is now one of the best in this
+code, in this case, with the help of a traditional static analyzer. The C-BERT model is now one of the best in this
 field based on the [CodeXGlue leaderboard](https://microsoft.github.io/CodeXGLUE/), and it could also be used for a
 variety of source code tasks such as Code Completion, Code Search, Clone detection, Code translation and Code
 generation.
